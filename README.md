@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me:
-I am a final-year BTech student in the Computer Science branch.
+I am a final-year B Tech student in Computer Science Engineering.
